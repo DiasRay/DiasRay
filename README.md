@@ -46,7 +46,7 @@ Atualmente, estou aprimorando minhas habilidades em **desenvolvimento fullstack*
 
 ## 📊 Minhas Estatísticas  
 
-![Rayanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasRay&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasRay&layout=compact&theme=dracula)] 
+![Rayanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasRay&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasRay&layout=compact&theme=dracula) 
 
 ---
 
