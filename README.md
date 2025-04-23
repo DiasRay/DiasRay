@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Olá, eu sou a Rayanne Dias Silva!  
+<h1 align="center">👋Olá, eu sou a Rayanne Dias Silva!</h1>  
 
 😄 Pronome: Ela/Dela
 
